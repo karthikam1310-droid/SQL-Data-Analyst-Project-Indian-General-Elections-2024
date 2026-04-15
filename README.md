@@ -61,8 +61,8 @@ Strong understanding of SQL Joins, Aggregations, and Window Functions
 Hands-on experience in real-world data analysis
 Improved ability to derive insights from large datasets
 Learned how to structure and optimize complex SQL queries
-📎 Conclusion
 
+📎 Conclusion
 This project demonstrates how SQL can be used to analyze large-scale election data and uncover valuable insights about political trends, voter behavior, and party performance.
 
 🔗 Connect With Me
